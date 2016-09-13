@@ -1,23 +1,21 @@
-package App::GetoptPanjangUtils;
+package App::GetoptLongUtils;
 
 # DATE
 # VERSION
 
-use 5.010001;
-
 1;
-# ABSTRACT: Collection of CLI utilities related to Getopt::Panjang
+# ABSTRACT: Collection of CLI utilities related to Getopt::Long
 
 =head1 DESCRIPTION
 
 This distribution provides the following command-line utilities related to
-L<Getopt::Panjang>:
+L<Getopt::Long>:
 
 #INSERT_EXECS_LIST
 
 
 =head1 SEE ALSO
 
-L<Getopt::Panjang>
+L<Getopt::Long>
 
 =cut
