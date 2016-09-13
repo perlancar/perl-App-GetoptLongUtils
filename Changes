@@ -1,5 +1,10 @@
 Revision history for App-GetoptLongUtils
 
+0.002   2016-09-14 (PERLANCAR)
+
+	- Fix package name.
+
+
 0.001   2016-09-14 (PERLANCAR)
 
         - First release.
