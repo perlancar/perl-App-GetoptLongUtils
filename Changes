@@ -1,5 +1,10 @@
 Revision history for App-GetoptLongUtils
 
+0.004   2016-10-27 (PERLANCAR)
+
+	- Add utility: detect-getopt-long-script.
+
+
 0.003   2016-10-21 (PERLANCAR)
 
 	- Add utility: dump-getopt-long-script.
