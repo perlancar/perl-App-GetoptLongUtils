@@ -1,3 +1,8 @@
+0.006   2017-08-10 (PERLANCAR)
+
+	- Add script: dump-getopt-long-evenless-script.
+
+
 0.005   2016-10-30 (PERLANCAR)
 
 	- Add utility: gen-getopt-long-spec-from-getopt-std-spec.
