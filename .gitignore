@@ -2,3 +2,4 @@ App-GetoptLongUtils-*
 .build
 *~
 nytprof*
+.DS_Store
